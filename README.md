@@ -14,4 +14,3 @@ Experience the live mobile-responsive prototype: **[https://market-risk-weather.
 - `risk.ts`: Core quantitative math engine (volatility & max drawdown calculations).
 - `Report.tsx`: Main React/Tailwind UI component displaying visual risk metrics and historical summaries.
 - `utils.ts`: Utility helper for Tailwind class merging.
-- 
